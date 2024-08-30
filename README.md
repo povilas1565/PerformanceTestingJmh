@@ -1,4 +1,6 @@
 # jmhdemo
 
+Сделать аналогичный класс тестов с помощью JMH (класс JMHTestRun) на содержание ответов (string500)
 
-Refer to: https://ihendracode.blogspot.com/2019/06/openjdkjmh-simple-usage.html
+
+
